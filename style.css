@@ -70,7 +70,7 @@ footer {
   }
   .cards-container {
     justify-content: start;
-    align-items: center;
+    align-items: stretch;
     margin-right: 0px;
   }
 
@@ -90,7 +90,7 @@ footer {
   }
   .cards-container {
     justify-content: start;
-    align-items: center;
+    align-items: stretch;
     margin-right: 0px;
   }
 
