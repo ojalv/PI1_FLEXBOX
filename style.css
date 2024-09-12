@@ -40,13 +40,23 @@ h1 {
 .card {
   max-width: 100%;
   border: 1px solid;
-  margin-top: 2%;
+  margin-top: 4%;
+  transition: 1s;
 }
+
+.card:hover {
+  scale: 1.02;
+  background-color: black;
+  color: white;
+  transition: 1s;
+}
+
 .card > h2 {
   padding: 20px 0px;
   text-align: center;
   font-size: 1.6rem;
 }
+
 .card > p {
   padding: 0px 1% 1% 1%;
   overflow-wrap: break-word;
