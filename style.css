@@ -104,6 +104,10 @@ footer {
     font-size: 2rem;
   }
 
+  .card > div > p {
+    font-size: large;
+  }
+
   footer {
     font-size: x-small;
   }
